@@ -32,7 +32,7 @@ I'm on a continuous journey of learning and growth. Here are a few things I'm ex
 
 - 🚀 **Exploring New Technologies:** I'm willing to explore emerging technologies with the aim of enriching my skillset and making meaningful contributions.
 
-- 🌐 **Contributing to Open Source:** I am interested in contributing to open source projects that align with my interests. This is a way for me to give back to the community and continue learning..
+- 🌐 **Contributing to Open Source:** I am interested in contributing to open source projects that align with my interests. This is a way for me to give back to the community and continue learning.
 
 - 📚 **Sharing Knowledge:** I have a strong passion for sharing knowledge and enjoy writing articles as a way to contribute.
 
@@ -51,7 +51,7 @@ Let's embrace the future of technology together and make a positive mark on the 
 
 - **Growth Mindset:** I approach challenges with a growth mindset, always seeking opportunities to enhance and expand my skill set.
 
-- **Continuous Learning:** I'm currently learning as it will be helpful in my contributions to CNCF open sources. Additionally, I'm always prepared and enthusiastic about learning the latest technologies, which ensures I stay up-to-date in this rapidly evolving field.
+- **Continuous Learning:** I'm currently learning Go as it will be helpful in my contributions to CNCF open sources. Additionally, I'm always prepared and enthusiastic about learning the latest technologies, which ensures I stay up-to-date in this rapidly evolving field.
 
 ## Contact Information
 
