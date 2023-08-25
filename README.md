@@ -2,27 +2,24 @@
 
 👋 Hello! I'm Mustapha Awwal, a Cloud DevOps Engineer from Akure, Nigeria. Welcome to my GitHub profile. I am a Cloud DevOps Engineer with a genuine passion for crafting efficient and scalable solutions using cloud service providers
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlydole&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
-
-
-
 ## Skills
-
-- ☁️ AWS for cloud computing
-- 🐧 Linux for server management
-- 🏗️ Terraform for infrastructure as code
-- 🐍 Python for scripting
-- ⚙️ Ansible for automation
-- 🌐 JavaScript for web development
-- 🐳 Docker and ☸️ Kubernetes for containerization
-- 🚀 Jenkins for CI/CD
-- 📜 Git for version control
-- 🎈 Serverless Framework for serverless computing
+- AWS: ![AWS Badge](https://img.shields.io/badge/Cloud-AWS-orange)
+- Linux: ![Linux Badge](https://img.shields.io/badge/OS-Linux-brightgreen)
+- Terraform: ![Terraform Badge](https://img.shields.io/badge/Infrastructure-Terraform-blue)
+- Python: ![Python Badge](https://img.shields.io/badge/Scripting-Python-yellow)
+- Ansible: ![Ansible Badge](https://img.shields.io/badge/Automation-Ansible-red)
+- JavaScript: ![JavaScript Badge](https://img.shields.io/badge/Web-JavaScript-yellow)
+- Docker: ![Docker Badge](https://img.shields.io/badge/Containers-Docker-blue)
+- Kubernetes: ![Kubernetes Badge](https://img.shields.io/badge/Containers-Kubernetes-blue)
+- Jenkins: ![Jenkins Badge](https://img.shields.io/badge/CI%2FCD-Jenkins-orange)
+- Git: ![Git Badge](https://img.shields.io/badge/Version%20Control-Git-lightgrey)
+- Serverless Framework: ![Serverless Badge](https://img.shields.io/badge/Serverless-Serverless%20Framework-yellow)
 
 And I'm always excited to expand my skills and continuously learn!
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlydole&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 ## Goals and Interests:
 
